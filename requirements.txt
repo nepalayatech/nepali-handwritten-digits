@@ -6,7 +6,7 @@ Click==7.0
 colorama==0.4.1
 Flask==1.0.2
 gast==0.2.2
-grpcio==1.24.3
+grpcio==1.34.0
 gunicorn==19.9.0
 h5py==2.9.0
 isort==4.3.20
